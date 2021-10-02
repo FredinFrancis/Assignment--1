@@ -52,7 +52,7 @@ elif(select==2):
     print("You have chosen T-Shirts!")
     print("\n")
     col1= str(input("Please enter your desired colour:- "))
-    qty1= int(input("Please enter your required quanitity:- "))
+    qty1= int(input("Please enter your required quantity:- "))
     rate=9.99
     hstrate=1.13
     netprice1=rate*qty1
